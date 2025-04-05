@@ -4,7 +4,7 @@ A Deep Q-Network (DQN) implementation for Flappy Bird, built from scratch withou
 
 ## 🚀 Demo
 
-![Flappy Bird RL](demo/4c310e31ff4b472eb90c3d630072e44f.gif)
+![Flappy Bird RL](demo/flappy.gif)
 
 ## 📌 Features
 
